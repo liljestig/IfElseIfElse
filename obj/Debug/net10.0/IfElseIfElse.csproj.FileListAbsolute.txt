@@ -1,0 +1,15 @@
+C:\Users\dan\source\repos\IfElseIfElse\bin\Debug\net10.0\IfElseIfElse.exe
+C:\Users\dan\source\repos\IfElseIfElse\bin\Debug\net10.0\IfElseIfElse.deps.json
+C:\Users\dan\source\repos\IfElseIfElse\bin\Debug\net10.0\IfElseIfElse.runtimeconfig.json
+C:\Users\dan\source\repos\IfElseIfElse\bin\Debug\net10.0\IfElseIfElse.dll
+C:\Users\dan\source\repos\IfElseIfElse\bin\Debug\net10.0\IfElseIfElse.pdb
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\IfElseIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\IfElseIfElse.AssemblyInfoInputs.cache
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\IfElseIfElse.AssemblyInfo.cs
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\IfElseIfElse.csproj.CoreCompileInputs.cache
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\IfElseIfElse.sourcelink.json
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\IfElseIfElse.dll
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\refint\IfElseIfElse.dll
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\IfElseIfElse.pdb
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\IfElseIfElse.genruntimeconfig.cache
+C:\Users\dan\source\repos\IfElseIfElse\obj\Debug\net10.0\ref\IfElseIfElse.dll
