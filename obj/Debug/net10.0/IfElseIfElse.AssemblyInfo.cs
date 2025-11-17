@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IfElseIfElse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+938a6be8768003308b239ab9793a91e7873a91f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18fd63cbfd1c90a6845383f85fc31d472c84a2aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("IfElseIfElse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IfElseIfElse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
